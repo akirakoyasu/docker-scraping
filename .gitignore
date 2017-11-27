@@ -1,0 +1,6 @@
+/pyvenv
+/log/*
+!/log/.keep
+/output/*
+!/output/.keep
+__pycache__/
